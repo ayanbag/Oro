@@ -1,0 +1,15 @@
+{
+    "name": "Oro crypto bot",
+    "description": "The server side for Orobot.",
+    "image": "heroku/python",
+    "repository": "https://github.com/ayanbag/orobot",
+    "keywords": ["python", "flask" ],
+    "addons": [ "heroku-postgresql" ],
+    "environments": {
+      "test": {
+        "scripts": {
+          "test": "server.py test"
+        }
+      }
+    }
+  }
