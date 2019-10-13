@@ -1,2 +1,3 @@
-# Oro
-The Server side of my cryptobot
+<p align="center">
+  <img src="assets/thumb1.png" />
+</p>
