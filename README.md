@@ -6,6 +6,13 @@
 
 Orobot is a chatbot able to answer various questions about cryptocurrencies and fetch any currency price in realtime.
 
+### Orobot ON MESSENGER
+
+<p align="center">
+<a href="http://m.me/orobotcrypto" target="_blank">
+<img border="0" alt="MessengerButton" src="assets/me.png">
+</p>
+
 ### SCOPE
 
 1.  Crypto currency prices: Sato recognizes cryptocurrencies symbol ("ETH", "BTC") and fetch their price on [cryptocompare API](https://www.cryptocompare.com/api/) to finally return BTC, USD, and EUR value to the user.
@@ -14,12 +21,7 @@ Orobot is a chatbot able to answer various questions about cryptocurrencies and 
 4.  Questions about specific cryptocurrencies (What is BTC?)
 5.  Questions about exchanges and trading cryptocurrencies.
 
-### Orobot ON MESSENGER
 
-<p align="center">
-<a href="http://m.me/orobotcrypto" target="_blank">
-<img border="0" alt="MessengerButton" src="assets/me.png">
-</p>
 
 
 
