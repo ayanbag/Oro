@@ -17,7 +17,7 @@ Orobot is a chatbot able to answer various questions about cryptocurrencies and 
 ### Orobot ON MESSENGER
 
 <p align="center">
-<a href="m.me/orobotcrypto" target="_blank">
+<a href="http://m.me/orobotcrypto" target="_blank">
 <img border="0" alt="MessengerButton" src="assets/me.png">
 </p>
 
