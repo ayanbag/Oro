@@ -21,3 +21,6 @@ Orobot is a chatbot able to answer various questions about cryptocurrencies and 
 <img border="0" alt="MessengerButton" src="assets/me.png">
 </p>
 
+### FILES
+
+All code are in codes folder of this repository.
