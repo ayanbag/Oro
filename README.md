@@ -21,3 +21,9 @@ Orobot is a chatbot able to answer various questions about cryptocurrencies and 
 <img border="0" alt="MessengerButton" src="assets/me.png">
 </p>
 
+
+
+
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](http://ayanbag.github.io)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](http://ayanbag.github.io)
